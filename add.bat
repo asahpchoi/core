@@ -1,3 +1,3 @@
 git add .
 git commit -m "updated"
-git push remote HEAD:master
+git push origin HEAD:master
